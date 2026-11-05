@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdbool.h>
+
+int main(void) {
+    bool ativo = true;
+    bool bloqueado = false;
+    printf("ativo = %d\n", ativo);
+    printf("bloqueado = %d\n", bloqueado);
+    return 0;
+}
