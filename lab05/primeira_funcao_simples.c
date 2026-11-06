@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+void mostrarMensagem(void) {
+    printf("Ola!\n");
+}
+
+int main(void) {
+    mostrarMensagem();
+    return 0;
+}
